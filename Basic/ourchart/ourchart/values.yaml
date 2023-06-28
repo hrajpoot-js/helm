@@ -1,1 +1,6 @@
+global:
+  app:
+    name: my-app
+    version: 1.0.0
+
 containerImage: nginx:1.17
